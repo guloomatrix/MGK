@@ -1,3 +1,3 @@
 Création d'un site vitrine pour un centre de formation aidant les papas à être de meilleurs papas. 
 Formation pratique (changement de couches, preparation de repas, propreté et hygiène).
-Formation coach technique , responsabilisé et conscientiser l'importance du rôle du père et de sa présence auprès de son enfant.(fondation des bases solides de l'epanouissement de l'enfant). 
+Formation coach technique , responsabilisé et conscientiser l'importance du rôle du père et de sa présence auprès de son enfant.(Qui est une des fondations des bases solides de l'épanouissement de l'enfant). 
